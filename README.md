@@ -52,11 +52,6 @@ This project focuses on the risk assessment and change management processes with
 - Require IT Director sign-off prior to any emergency implementation.
 - Maintain a centralized log for UAT and rollback outcomes.
 
-## 👨‍💼 Contributors
-
-- Harvey Jones – Head of Law Department (Requestor)
-- Melissa Smith – CorpLaw Dev Team Leader (Approver)
-- Rex Johnson – Implementer
 
 ## 📅 Date of Completion
 
