@@ -6,13 +6,13 @@ This project focuses on the risk assessment and change management processes with
 
 ## 📁 Files Included
 
-- CorpLaw Dev and Imp User List - Model Answer (1).xlsx  
+- CorpLaw Dev and Imp User List  
   Detailed list of development and implementation users, their roles, and access levels for CorpLaw.
 
-- Task 3_CorpLaw MedTech Industries ToD and OE - Model Answer (1).xlsx  
+- Task 3_CorpLaw MedTech Industries ToD and OE
   Time of Day (ToD) access review and Operational Environment (OE) mapping for each CorpLaw user.
 
-- MedTech CorpLaw - ITS Change Management Form.pdf  
+- MedTech CorpLaw - ITS Change Management Form 
   Official form documenting the emergency change request CH150, including impact analysis, test plans, sign-offs, and noted compliance exceptions.
 
 ## ✅ Objectives
